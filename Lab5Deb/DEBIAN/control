@@ -1,0 +1,9 @@
+Package: Lab5
+Version: 1.0
+Section: custom
+Priority: optional
+Depends:   libx11-xcb1:amd64,libnvidia-common-515, libx11-data,libxcb-glx0:amd64,libxcursor1:amd64,libsfml-graphics2.5:amd64,libnvidia-gl-515:amd64
+Architecture: amd64
+Essential: no
+Maintainer: Sam Weese weesesr@mail.uc.edu
+Description: Lab5 overachievement for Nitin Nitin.
